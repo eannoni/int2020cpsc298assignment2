@@ -1,1 +1,1 @@
-# eannoni-int2020cpsc298assignment2
+# int2020cpsc298assignment2
